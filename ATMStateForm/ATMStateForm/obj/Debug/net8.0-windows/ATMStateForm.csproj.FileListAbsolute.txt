@@ -1,0 +1,16 @@
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\bin\Debug\net8.0-windows\ATMStateForm.exe
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\bin\Debug\net8.0-windows\ATMStateForm.deps.json
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\bin\Debug\net8.0-windows\ATMStateForm.runtimeconfig.json
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\bin\Debug\net8.0-windows\ATMStateForm.dll
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\bin\Debug\net8.0-windows\ATMStateForm.pdb
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.Form1.resources
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.csproj.GenerateResource.cache
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.AssemblyInfoInputs.cache
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.AssemblyInfo.cs
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.csproj.CoreCompileInputs.cache
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.dll
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\refint\ATMStateForm.dll
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.pdb
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ATMStateForm.genruntimeconfig.cache
+D:\Polytech\sem5\tkpo\ATMStateForm\ATMStateForm\obj\Debug\net8.0-windows\ref\ATMStateForm.dll
